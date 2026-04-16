@@ -75,9 +75,9 @@ void binarySearch()
     char ulang;
     do
     {
-        cout << "\n=========================================\n";
-        cout << "             Pencarian Binary Search       ";
-        cout << "=========================================\n";
+    cout << "\n=====================================================\n";
+    cout << "                 Pencarian Binary Search                \n";
+    cout << "=====================================================\n";
 
         cout << "Masukan Elemen yang ingin dicari : ";
         cin >> x;
