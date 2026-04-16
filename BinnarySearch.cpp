@@ -115,3 +115,13 @@ void binarySearch()
     
     }while (ulang == 'y' || ulang == 'v');
 }
+
+int main()
+{
+    input();
+    bubbleSortArray();
+    display();
+    binarySearch();
+}
+
+
